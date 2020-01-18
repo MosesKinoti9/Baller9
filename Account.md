@@ -3,10 +3,7 @@
 
 package account;
 
-/**
- *
- * @author mkino
- */
+
 public class AccModel 
 {
     private int ID;
